@@ -2,6 +2,8 @@
 
 This meme generator app is part of the free React course at Scrimba. https://scrimba.com/learn/learnreact
 
+Live demo: https://super-zuccutto-04a2bf.netlify.app
+
 The app works by pulling a random meme image from an API and placing your text over it to create your own custom meme.
 
 
